@@ -1,5 +1,9 @@
 # Machine Learning Navigation — ML Agent vs Rule-Based System
 
+![Ai nav](https://github.com/SuhaibAnwaar/Machine-Learning-Navigation/blob/d851f1df72214dd6bd7ca22fd442b7122f3b60f1/Navigation%20AI.png)
+
+Video demonstration: https://youtu.be/Rc_WHlx6bL8
+
 Author: Suhaib Anwaar   
 
 Overview
